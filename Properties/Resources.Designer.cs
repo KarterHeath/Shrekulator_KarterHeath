@@ -63,6 +63,26 @@ namespace Calculator_KarterHeath.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Donkay {
+            get {
+                object obj = ResourceManager.GetObject("Donkay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap puss_in_boots {
+            get {
+                object obj = ResourceManager.GetObject("puss in boots", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Screenshot_2024_10_11_101215 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot 2024-10-11 101215", resourceCulture);
